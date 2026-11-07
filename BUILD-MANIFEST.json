@@ -1,0 +1,18 @@
+{
+  "project": "ANDIKZZ WORDPRESS",
+  "version": "9.0",
+  "snapshot": "ANDIKZZ-WORDPRES-5",
+  "source_archive": "ANDIKZZ-WORDPRESS.zip",
+  "new_modules": [
+    "modules/vulnerability/confidence.py",
+    "modules/vulnerability/wpscan_feed.py"
+  ],
+  "upgraded_modules": [
+    "modules/vulnerability/matcher.py",
+    "modules/vulnerability/module.py",
+    "modules/vulnerability/integration.py",
+    "output/html_report.py",
+    "data/vulnerability/advisories.json"
+  ],
+  "notes": "v9.0: Anti-guess system (ConfidenceScorer), WPScan API integration, evidence tagging, data_quality badges in HTML report."
+}
