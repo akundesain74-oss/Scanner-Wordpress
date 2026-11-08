@@ -1,5 +1,5 @@
 # ANDIKZZ WORDPRESS v9.0
-![Banner](https://github.com/akundesain74-oss/Scanner-Wordpress/blob/main/pngtree-a-samurai-in-full-armor-standing-red-leaves-gloomy-atmosphere-image_17177288.jpg?raw=true)
+![Banner](https://github.com/akundesain74-oss/Scanner-Wordpress/blob/main/1794099243327.png?raw=true)
 
 Passive website and WordPress intelligence for systems you own or are authorized to assess.
 
