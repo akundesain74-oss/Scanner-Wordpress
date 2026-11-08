@@ -51,4 +51,10 @@ Reports:
 python -m tests.run_all
 ```
 
+## And in the script there is a scanner script test, to test script passability.
+## that you have made
 ## Use only on targets you own or have explicit permission to assess.
+
+## Thank You
+**Owner By:** *AndikzZa*
+**Release Date:** 07 November 2026
