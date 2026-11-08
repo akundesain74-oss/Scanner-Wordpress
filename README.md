@@ -1,9 +1,9 @@
-# ANDIKZZ WORDPRESS v9.0
+# ANDIKZZ WORDPRESS v1.0
 ![Banner](https://github.com/akundesain74-oss/Scanner-Wordpress/blob/main/1794099243327.png?raw=true)
 
 Passive website and WordPress intelligence for systems you own or are authorized to assess.
 
-## v9.0 changes — Anti-Guess System
+## v1.0 changes — Anti-Guess System
 
 ### New: `modules/vulnerability/confidence.py`
 - `ConfidenceScorer` assigns two scores to every finding:
